@@ -12,6 +12,7 @@ You can find our store [here]([url](https://isobarindustries.etsy.com)).
 In this repository, you'll find PDF manuals for all our Eurorack modules. These manuals provide brief but detailed information on:
 
 - Module specifications
+- PDF Manuals
 - Block charts
 - Patch ideas
 - Technical details
