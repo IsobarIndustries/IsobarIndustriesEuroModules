@@ -34,7 +34,7 @@ In this repository, you'll find PDF manuals for all our Eurorack modules. These 
 If you need additional support or have questions about our modules:
 
 - Visit our website: [www.isobarindustries.com](http://www.isobarindustries.com)
-- Visit our [Etsy store]([url](https://isobarindustries.etsy.com)):
+- Visit our [Etsy store]([url](https://isobarindustries.etsy.com):
 - Email us: isobarindustries@gmail.com
 
 ## ∴ How to Use This Repository ∴
