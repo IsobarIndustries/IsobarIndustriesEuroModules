@@ -9,12 +9,10 @@ You can find our store [here]([url](https://isobarindustries.etsy.com)).
 
 ## ∴ Documentation ∴
 
-In this repository, you'll find PDF manuals for all our Eurorack modules. These manuals provide brief but detailed information on:
+In this repository, you'll find PDF manuals for all of my Eurorack modules. These manuals provide brief but detailed information on:
 
 - Module specifications
 - PDF Manuals
-- Block charts
-- Patch ideas
 - Technical details
 
 ## ∴ Module List ∴
@@ -23,20 +21,18 @@ In this repository, you'll find PDF manuals for all our Eurorack modules. These 
 
 ### **Plexus**
 10HP Eurorack three channel voltage manipulator
-
-### **Nix**
-*To be unveiled*
-
-### **Abra**
-*To be unveiled*
+### **Mimic**
+4HP Eurorack 4 channel color coded buffered multiple
+### **Umbra**
+10HP Eurorack stereo feedback accumulator & VCA
 
 ## ∴ Support ∴
 
 If you need additional support or have questions about our modules:
 
-- Visit our website: [www.isobarindustries.com](http://www.isobarindustries.com)
-- Visit our [Etsy Store](https://isobarindustries.etsy.com)
-- Email us: isobarindustries@gmail.com
+- Visit my website: [www.isobarindustries.com](http://www.isobarindustries.com)
+- Visit my [Etsy Store](https://isobarindustries.etsy.com)
+- Email me: isobarindustries@gmail.com
 
 ## ∴ How to Use This Repository ∴
 
